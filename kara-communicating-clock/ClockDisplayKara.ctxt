@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ClockDisplayKara
+comment0.text=\n\ Write\ a\ description\ of\ class\ ClockDisplayKara\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ ClockDisplayKara\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ incrementNext()
+comment2.text=\n\ This\ method\ should\ get\ called\ once\ every\ minute\ -\ it\ makes\n\ the\ clock\ display\ go\ one\ minute\ forward.\n\ ClockDisplayKara\ can\ handle\ a\ flexible\ number\ of\ DigitDisplayKaras,\n\ it\ just\ walks\ below\ them\ and\ increments\ the\ first,\ and\ then,\ if\n\ this\ one\ rolled\ over,\ to\ the\ next.\n
+comment3.params=
+comment3.target=int\ incrementOne()
+comment4.params=
+comment4.target=void\ goHome()
+comment5.params=
+comment5.target=DigitDisplayKara\ getKaraAbove()
+numComments=6

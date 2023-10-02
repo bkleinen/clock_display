@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AMPMDisplayKara
+comment0.text=\n\ This\ subclass\ can\ be\ used\ to\ tackle\ the\ 12\:00pm/am\ anomality.\n\ \n\ @author\ Barne\ Kleinen\n
+comment1.params=rollOverLimit\ stepsToNextDigit
+comment1.target=AMPMDisplayKara(int,\ int)
+comment2.params=count
+comment2.target=java.lang.String\ getDisplayText(int)
+numComments=3

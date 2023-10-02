@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EnhancedKara
+comment0.text=\n\ Defines\ Methods\ needed\ by\ the\ Clock\ Karas\n\ \n\ @author\ Barne\ Kleinen\n
+comment1.params=
+comment1.target=void\ toTree()
+comment2.params=
+comment2.target=boolean\ karaFront()
+comment3.params=steps
+comment3.target=void\ moveToNext(int)
+numComments=4
